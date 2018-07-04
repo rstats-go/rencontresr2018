@@ -8,7 +8,7 @@ func farenheit(celcius float64) float64 {
 
 func main() {
   var freezing float64 = farenheit(0.0)
-  boiling := farenheit(37.0)
+  boiling := farenheit(100.0)
   
   fmt.Printf("Water freezes at %4.2f F\n", freezing)
   fmt.Printf("Water boils at %4.2f F\n", boiling)
