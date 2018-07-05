@@ -65,7 +65,7 @@ extern "C" {
 #endif
 
 
-extern GoFloat64 Farenheit(GoFloat64 p0);
+extern GoFloat64 Fahrenheit(GoFloat64 p0);
 
 #ifdef __cplusplus
 }
